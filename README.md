@@ -1,0 +1,2 @@
+# katalonStudio
+KatalonGitIntegration
